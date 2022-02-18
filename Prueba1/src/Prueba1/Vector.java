@@ -6,7 +6,7 @@ public class Vector {
 		//TODO Esbozo de método generado automáticamente
 		int n=5, result=0;
 		int a[]=new int[5];
-		
+		a[0]= 1;
 		
 	}
 
