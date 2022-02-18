@@ -6,8 +6,8 @@ public class Vector {
 		//TODO Esbozo de método generado automáticamente
 		int n=5, result=0;
 		int a[]=new int[5];
-<<<<<<< HEAD
-=======
+
+
 		for(int i= 0; i<a.length; i++)
 		{
 			a[i]=(i+1)*10;
@@ -15,8 +15,10 @@ public class Vector {
 		for(int i= 0; i<a.length; i++)
 		{
 			System.out.printf("Elemento %d=%d\n",i,a[i]);
+			System.out.println("Los elementos del vector son\n");
 		}
->>>>>>> branch 'main' of https://github.com/DinaMartinez/repositorioEclipse.git
-	}
+		
+	}	
+
 
 }
